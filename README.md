@@ -11,7 +11,7 @@ This Chrome Extension is supported on Google Chrome and Brave Browser
   <img width="527" height="288" src="/screenshots/5.png">
   </p>
 <p align="center">  
-  <img width="400" height="660" src="/screenshots/2.png">
+  <img width="406" height="688" src="/screenshots/2.png">
 </p>
 
 ![About chrome extension](/screenshots/1.png)
