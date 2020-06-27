@@ -8,8 +8,10 @@ For continuous hassle free service to check each and every URL a user visits, we
 This Chrome Extension is supported on Google Chrome and Brave Browser
 
 <p align="center">
-  <img width="300" height="380" src="/screenshots/5.png">
-  <img width="400" height="800" src="/screenshots/2.png">
+  <img width="400" height="380" src="/screenshots/5.png">
+  </p>
+<p align="center">  
+  <img width="400" height="660" src="/screenshots/2.png">
 </p>
 
 ![About chrome extension](/screenshots/1.png)
