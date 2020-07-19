@@ -22,6 +22,8 @@ This application is live at : https://mudvfinalradar.eu-gb.cf.appdomain.cloud/
 
 Live Data Analysis Portal : https://mudvfinalradar.eu-gb.cf.appdomain.cloud/fetchanalysis
 
+Chrome Extension repository : https://github.com/abhisheksaxena1998/ChromeExtension-Malicious-URL-v5-IBM
+
 Dataset link : https://github.com/Hritiksum/MUD_dataset
 
 Training and Testing link : https://github.com/Hritiksum/MUD_dataset/blob/master/Training%20and%20Testing%20Model/Training%20and%20Testing.ipynb
